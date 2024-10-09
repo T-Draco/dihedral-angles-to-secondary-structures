@@ -1,1 +1,2 @@
 # dihedral_angles_to_secondary_structures
+Protein PDB files possess the atomic coordinates of amino acid atom locations. These atomic coordinates can be parsed into dihedral angle values, which can then be used to predict the secondary structures of proteins. To find the modules for converting PDB atomic coordinates into dihedral angle values usable for this code, find my "dihedral_angle_radians_to_degrees" repository at: https://github.com/sstonya/dihedral_angle_radians_to_degrees.git
