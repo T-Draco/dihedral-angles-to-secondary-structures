@@ -4,3 +4,8 @@ Protein PDB files possess the atomic coordinates of amino acid atom locations. T
 This program utilizes Python, which is a free use program. This repository is intended for the conversion of dihedral angle values into secondary structure predictions. NOTE: these predictions can vary based on what values you input for your phi and psi angles. This module was made for non-profit reasons. Improvement edits to this repository are highly encouraged with proper source code citations and use of the GitHub branch function.
 
 DISCLAIMER: complete accuracy is not guaranteed. 
+
+Install Python 
+======================
+
+You can install the latest version of python on the python website: https://www.python.org/downloads/ 
